@@ -4,7 +4,7 @@ repology=("project: ${name}")
 arch=('amd64')
 version="1.6.2"
 epoch="1"
-homepage='hhttps://github.com/eneshecan/${name}'
+homepage='https://github.com/eneshecan/${name}'
 url="https://github.com/eneshecan/${name}/archive/refs/tags/v${version}.zip"
 build_depends=("cmake" "intltool" "libgtkmm-3.0-dev"
                "libwebkit2gtk-4.0-dev" "libayatana-appindicator3-dev"
